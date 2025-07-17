@@ -1,6 +1,6 @@
 <img src="img/SNA_Primary_SQ.png" width="200"/>
 
-# Social Network Analysis in STEM Education Research
+# Social Network Analysis in STEM Education Research-version 2.0 by Priscila
 
 Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. As summarized in this Introductory Presentation, the SNA modules are designed to prepare STEM education researchers and practitioners to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each lab will provide scholars with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.
 
